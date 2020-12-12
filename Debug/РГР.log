@@ -1,0 +1,4 @@
+﻿  РГР.cpp
+C:\Users\цйц\Pictures\Универ\ОС\РГР\РГР.cpp(43): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\цйц\Pictures\Универ\ОС\РГР\РГР.cpp(50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  РГР.vcxproj -> C:\Users\цйц\Pictures\Универ\ОС\РГР\Debug\РГР.exe
